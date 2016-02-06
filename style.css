@@ -1,0 +1,38 @@
+h1{
+font-family: impact;
+font-size: 70px;}
+img{
+float:right;
+}
+div{
+width: 70%;
+height: 850px;
+ margin-left: auto ;
+  margin-right: auto ;
+  background-color: white;
+  padding: 20px;
+  border-style: solid;
+    border-width: 20px;
+	border-color: pink;
+	border-style: outset;
+  
+}
+body{
+background-color:black;
+}
+
+p{
+font-size: 18px;
+font-family: Arial;
+}
+
+a{
+color: #FF00FF;
+text-decoration: none;
+font-size: 18px;
+font-family: Arial;
+}
+
+a:hover{
+color: #FF0000;
+}
